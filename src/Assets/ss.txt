@@ -1,0 +1,18 @@
+<form>
+          <div class="group">
+            <input required="true" type="email" class="input" />
+            <span class="highlight"></span>
+            <span class="bar"></span>
+            <label>Email</label>
+          </div>
+          <div className="button-borders">
+            <button className="loginBtn" placeholder="Login">
+              Login
+            </button>
+          </div>
+          <p>Not Registered?</p>
+          <button className="registerBtn" placeholder="Register">
+            Register Now!
+          </button>
+        </form>
+      </div>

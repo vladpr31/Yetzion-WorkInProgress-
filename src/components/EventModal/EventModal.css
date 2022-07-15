@@ -1,0 +1,9 @@
+.categoryCheckbox{
+    font: 1rem 'Fira Sans', sans-serif;
+    vertical-align: middle;
+    margin: .4rem;
+}
+[type="checkbox"]
+{
+    vertical-align:middle;
+}

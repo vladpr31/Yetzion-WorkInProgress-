@@ -1,0 +1,61 @@
+{
+  "name": "yetzion",
+  "version": "1.0.0",
+  "description": "Calendar website for aranging meetings with friends, create your own group using Gmail, each one of the friends can click on the calendar on which days of the month they are available and at the end the days where all are free will be generated, if all agree on same day of meeting it will be added to the calendar and sync with google account.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@hebcal/core": "^3.39.1",
+    "@hebcal/rest-api": "^3.18.0",
+    "@mui/material": "^5.8.4",
+    "@reduxjs/toolkit": "^1.8.2",
+    "@tailwindcss/forms": "^0.5.2",
+    "bootstrap": "^5.1.3",
+    "cldr": "^7.2.0",
+    "express": "^4.18.1",
+    "firebase": "^9.8.4",
+    "framer-motion": "^6.3.15",
+    "gematriya": "^2.0.0",
+    "globalize": "^1.7.0",
+    "node": "^17.7.2",
+    "node-sass": "^7.0.1",
+    "react": "^18.2.0",
+    "react-big-calendar": "^0.40.2",
+    "react-calendar": "^3.7.0",
+    "react-dom": "^18.2.0",
+    "react-firebase-hooks": "^5.0.3",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "^5.0.1",
+    "react-simple-typewriter": "^3.0.1",
+    "styled-components": "^5.3.5",
+    "uid": "^2.0.0",
+    "url": "^0.11.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.7",
+    "file-loader": "^6.2.0",
+    "postcss": "^8.4.14",
+    "tailwindcss": "^3.1.3"
+  }
+}
