@@ -1,5 +1,5 @@
 
-Webapp fore scheduling and arranging meets with friends.
+Webapp for scheduling and arranging meetings with friends.
 
 Uses Calendar with HebcalAPI for Jewish holidays(can be changed with the API by location holidays).
 Marking dates when you're busy or available so your friends can see.
@@ -21,3 +21,4 @@ Firebase
 Tailwing
 HebcalAPI
 MaterialUI
+BigCalendar
